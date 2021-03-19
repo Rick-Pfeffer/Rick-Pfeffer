@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Rick-Pfeffer
+- 👀 I’m interested in data science, process automation, and coming up with solutions to nebulous problems.
+- 🌱 I’m currently learning machine learning techniques and Bayesian statistics.  
+- 📫 How to reach me: rick.a.pfeffer@gmail.com
